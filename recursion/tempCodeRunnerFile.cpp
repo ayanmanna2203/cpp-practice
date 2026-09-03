@@ -1,1 +1,1 @@
-int power();
+n==0 or
